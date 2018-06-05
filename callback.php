@@ -1,11 +1,11 @@
 <?php
 
 	/* 輸入申請的Line Developers 資料  */
-	$channel_id = "{Channel ID}";
-	$channel_secret = "{Channel Secret}";
-	$channel_access_token = "{Channel Access Token}";
+	$channel_id = "1585527962";
+	$channel_secret = "465b3b0dbc8d6d5ed3feac4df6f52e00";
+	$channel_access_token = "XAnBaVQQ/eaDIJDjK0uOuTxNlxwH7ZZmzOraW/E1f9fsr13sNAu6gMu/bDtMGKRs1CJnHNbtlmv6i23Jp2xmntQOADRqKegBT5+naaey9vig+EAdWXwoWMOYHlKn6TwmIpc7Y9Wj6zvbCn9Vmgu1VwdB04t89/1O/w1cDnyilFU=";
 
-	$myURL = "https://Your Domain/update/"
+	$myURL = "https://radombankalarm.herokuapp.com/callback.php"
 
 
 	//  當有人發送訊息給bot時 我們會收到的json
