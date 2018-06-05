@@ -5,7 +5,7 @@
 	$channel_secret = "465b3b0dbc8d6d5ed3feac4df6f52e00";
 	$channel_access_token = "XAnBaVQQ/eaDIJDjK0uOuTxNlxwH7ZZmzOraW/E1f9fsr13sNAu6gMu/bDtMGKRs1CJnHNbtlmv6i23Jp2xmntQOADRqKegBT5+naaey9vig+EAdWXwoWMOYHlKn6TwmIpc7Y9Wj6zvbCn9Vmgu1VwdB04t89/1O/w1cDnyilFU=";
 
-	$myURL = "https://radombankalarm.herokuapp.com/"
+	$myURL = "https://radombankalarm.herokuapp.com/";
 
 
 	//  當有人發送訊息給bot時 我們會收到的json
